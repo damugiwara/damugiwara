@@ -1,4 +1,5 @@
 cool websites:
 
-https://monkeytype.com \n
+https://monkeytype.com 
+
 https://replit.com
