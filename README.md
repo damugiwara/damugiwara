@@ -17,12 +17,17 @@ I'm Vansh, an aspiring developer exploring DevOps, cloud computing, and automati
 
 ##  `$ Projects`
 
-- Personal Blog Website: https://the-git-gud-gazette.vercel.app/index.html
-- A complete, end-to-end CI/CD pipeline built to automatically test, containerize, and deploy a web application. This project demonstrates a full DevOps workflow from a `git push` to a live deployment.
+##  `$ Projects`
 
-* **Tech Stack:** Jenkins, Docker, Git, GitHub, Nginx, and AWS EC2 for deployment.
-* **[View the Project Repository](https://github.com/damugiwara/jenkinsPipelineProject)**
+### 🚀 Automated CI/CD Pipeline
+An end-to-end pipeline that automatically builds, containerizes, and deploys a web application from a Git commit to the cloud.
+* **Tech:** Jenkins, Docker, AWS EC2, Nginx, Git, GitHub
+* **[View Source Code](https://github.com/damugiwara/jenkinsPipelineProject)**
 
+### 📝 The Git Gud Gazette - Personal Blog
+A clean, dark-themed personal blog built with vanilla HTML & CSS, and deployed automatically via Vercel.
+* **Tech:** HTML, CSS, Git, Vercel
+* **[Live Demo](https://the-git-gud-gazette.vercel.app/index.html)** | **[View Source Code](https://github.com/damugiwara/Your-Blog-Repo-Name)**
 
 
 
