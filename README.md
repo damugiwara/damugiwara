@@ -17,16 +17,14 @@ I'm Vansh, an aspiring developer exploring DevOps, cloud computing, and automati
 
 ##  `$ Projects`
 
-##  `$ Projects`
-
 ### 🚀 Automated CI/CD Pipeline
 An end-to-end pipeline that automatically builds, containerizes, and deploys a web application from a Git commit to the cloud.
-* **Tech:** Jenkins, Docker, AWS EC2, Nginx, Git, GitHub
+* **Tech Stack:** Jenkins, Docker, AWS EC2, Nginx, Git, GitHub
 * **[View Source Code](https://github.com/damugiwara/jenkinsPipelineProject)**
 
 ### 📝 The Git Gud Gazette - Personal Blog
 A clean, dark-themed personal blog built with vanilla HTML & CSS, and deployed automatically via Vercel.
-* **Tech:** HTML, CSS, Git, Vercel
+* **Tech Stack:** HTML, CSS, Git, Vercel
 * **[Live Demo](https://the-git-gud-gazette.vercel.app/index.html)**
 
 
