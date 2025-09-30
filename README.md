@@ -27,7 +27,7 @@ An end-to-end pipeline that automatically builds, containerizes, and deploys a w
 ### 📝 The Git Gud Gazette - Personal Blog
 A clean, dark-themed personal blog built with vanilla HTML & CSS, and deployed automatically via Vercel.
 * **Tech:** HTML, CSS, Git, Vercel
-* **[Live Demo](https://the-git-gud-gazette.vercel.app/index.html)** | **[View Source Code](https://github.com/damugiwara/Your-Blog-Repo-Name)**
+* **[Live Demo](https://the-git-gud-gazette.vercel.app/index.html)**
 
 
 
