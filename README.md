@@ -27,5 +27,10 @@ A clean, dark-themed personal blog built with vanilla HTML & CSS, and deployed a
 * **Tech Stack:** HTML, CSS, Git, Vercel
 * **[Live Demo](https://the-git-gud-gazette.vercel.app/index.html)**
 
+### 💻 Personal Portfolio Website
+A clean, responsive, and aesthetically pleasing personal portfolio website built with vanilla HTML, CSS, and JavaScript, and deployed on Render.
+* **Tech Stack:** HTML, CSS, JavaScript, Git, Render
+* **[Live Demo](https://www.vanshtripathi.tech/)**
+
 
 
