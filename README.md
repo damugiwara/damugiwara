@@ -19,7 +19,6 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20IDE-6C63FF?style=for-the-badge)
 
 ---
 
