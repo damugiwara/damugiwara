@@ -21,7 +21,7 @@ I love turning manual processes into autonomous, self-improving systems using LL
 
 ## `$ Projects`
 
- # RogueX — AI-Powered Crypto Analysis System (Latest)
+ # RogueX — AI-Powered Crypto Analysis System
 
 🌐 https://roguex.vercel.app
 
