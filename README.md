@@ -19,16 +19,25 @@ I love turning manual processes into autonomous, self-improving systems using LL
 
 ---
 
-## `$ Focus Areas`
+## `$ Projects`
 
-- 🤖 AI Agents & Multi-Agent Systems  
-- 🔍 RAG & Knowledge Systems  
-- ⚡ Workflow Automation  
-- 🔗 API Orchestration  
-- 📊 AI Dashboards  
-- 🧠 Intelligent Process Automation  
+ # RogueX — AI-Powered Crypto Analysis System (Latest)
 
----
+🌐 https://roguex.vercel.app
+
+An automated, agent-driven system that processes crypto queries and delivers real-time market analysis and trading signals.
+
+Key Features:
+
+⚡ n8n-powered workflow orchestration
+
+🤖 Agentic AI for analysis & signal generation
+
+📊 Real-time price & market data processing
+
+🔁 End-to-end automation pipeline
+
+🌐 Webhook-based request handling
 
 
 ## `$ Let's Connect`
