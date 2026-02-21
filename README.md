@@ -39,6 +39,7 @@ Key Features:
 
 🌐 Webhook-based request handling
 
+---
 
 ## `$ Let's Connect`
 
