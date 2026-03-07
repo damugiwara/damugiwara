@@ -35,6 +35,8 @@ An automated, agent-driven platform that processes crypto market queries and del
 
 ### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
 
+🌐 https://github.com/damugiwara/Linkedin_Email_Drafter
+
 A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
 
 ---
