@@ -19,6 +19,7 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 ---
 
@@ -35,8 +36,6 @@ An automated, agent-driven platform that processes crypto market queries and del
 ### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
 
 A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
-
-The system parses resumes, analyzes job posts, generates tailored outreach emails, attaches resumes automatically, and creates ready-to-send Gmail drafts while logging applications for tracking.
 
 ---
 
