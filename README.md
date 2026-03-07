@@ -30,21 +30,18 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 
 An automated, agent-driven platform that processes crypto market queries and delivers real-time analysis and trading insights.
 
-Key Features:
+---
 
-⚡ n8n-based workflow orchestration  
-🤖 Agentic AI for multi-step analysis & signal generation  
-📊 Real-time market & price data ingestion  
-🔁 Fully automated end-to-end pipelines  
-🌐 Webhook-based API architecture  
-🐳 Containerized services using Docker  
-🚀 Deployed on Vercel / Render / Railway  
+### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
+
+A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
+
+The system parses resumes, analyzes job posts, generates tailored outreach emails, attaches resumes automatically, and creates ready-to-send Gmail drafts while logging applications for tracking.
 
 ---
 
 ## $ Let's Connect
 
 🌐 Portfolio: https://www.vanshtripathi.tech  
-💼 GitHub: https://github.com/damugiwara  
+💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/  
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms
-
