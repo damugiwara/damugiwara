@@ -88,10 +88,7 @@ An automated job application system that scrapes a LinkedIn job post, generates 
 
 ## $ Let's Connect
 
-
-## 📬 Let's Connect
-
 [![X](https://img.shields.io/badge/-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vanshtri)
-[![LinkedIn](https://img.shields.io/badge/in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshtri07/)
+[![LinkedIn](https://www.svgrepo.com/show/157006/linkedin.svg)](https://www.linkedin.com/in/vanshtri07/)
 
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms.
