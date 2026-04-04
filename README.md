@@ -66,7 +66,7 @@ An end-to-end automated prospecting system that identifies high intent B2B leads
 
 ---
 
-### 🚀 RogueX — AI Powered Crypto Analysis System
+### 🚀 AI Powered Crypto Analysis System
 🌐 https://roguex.vercel.app
 
 An autonomous multi-model crypto intelligence system that parses incoming market queries, routes them by intent, and returns real-time price data, technical analysis, or trading signals without manual intervention.
