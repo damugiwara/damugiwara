@@ -88,10 +88,7 @@ An automated job application system that scrapes a LinkedIn job post, generates 
 
 ## $ Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vanshtripathi.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshtri07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtripathi.work@gmail.com)
+Portfolio: (https://www.vanshtripathi.tech)
+LinkedIn: (https://www.linkedin.com/in/vanshtri07/)
 
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms.
