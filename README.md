@@ -49,6 +49,7 @@ Currently building **[GoneRogue](https://www.gonerogue.in)**
 ## $ Projects
 
 ### ⚙️ Zero Touch Procurement
+[🔗 Deep Dive](https://www.linkedin.com/posts/vanshtri07_zero-touch-procurement-activity-7440097414998446080-Nobu?utm_source=share&utm_medium=member_ios&rcm=ACoAAGSWfR8BlV27PpdcU3RpM3b8UVzqRfYAIoU)
 
 An end-to-end autonomous procurement pipeline that eliminates spreadsheets, follow-up emails, and manual award processes simultaneously.
 
