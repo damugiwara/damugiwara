@@ -51,7 +51,7 @@ Currently building **[GoneRogue](https://www.gonerogue.in)**
 ### ⚙️ Zero Touch Procurement
 [🔗 Deep Dive](https://www.linkedin.com/posts/vanshtri07_zero-touch-procurement-activity-7440097414998446080-Nobu?utm_source=share&utm_medium=member_ios&rcm=ACoAAGSWfR8BlV27PpdcU3RpM3b8UVzqRfYAIoU)
 
-An end-to-end autonomous procurement pipeline that eliminates spreadsheets, follow-up emails, and manual award processes simultaneously.
+An end-to-end autonomous procurement system that eliminates spreadsheets, follow-up emails, and manual award processes simultaneously.
 
 **Pipeline:** One trigger fires the entire RFQ lifecycle → suppliers get personalised invitations via Tally URLs → quotes collected and scanned for anomalies by Groq → non-responders auto-chased → buyer clicks Award → PO generated and logged to Airtable automatically.
 
