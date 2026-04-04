@@ -87,7 +87,7 @@ An automated job application system that scrapes a LinkedIn job post, generates 
 
 **Pipeline:** User submits LinkedIn URL and resume → n8n webhook triggers → Jina AI scrapes job post → Groq parses resume text → AI Agent (Groq + Gemini fallback) drafts targeted email → application logged to Airtable → Gmail draft created with resume attached.
 
-**Stack:** `n8n` · `Groq` · `Gemini` · `Jina AI` · `Airtable` · `Gmail OAuth2` · `PDF.js`
+**Stack:** `n8n` · `Groq` · `Gemini` · `Airtable` · `Gmail OAuth2`
 
 ---
 
