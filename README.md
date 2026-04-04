@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vansh%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+autonomous+systems+that+run+themselves.;LLMs+%C2%B7+Agentic+AI+%C2%B7+Workflow+Orchestration+%C2%B7+n8n)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## $ Whoami
 
 <table>
@@ -19,13 +9,13 @@
 
 Hey!
 
-🤖 I'm **Vansh**.
+I'm **Vansh**.
 
-⚡ An AI Automation Engineer building intelligent systems that run themselves.
+An AI Automation Engineer building intelligent systems that run themselves.
 
-🔧 I specialize in transforming manual, repetitive processes into autonomous, self-improving pipelines using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
+I specialize in transforming manual, repetitive processes into autonomous, self-improving pipelines using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
 
-🚀 Currently building at **[GoneRogue](https://www.gonerogue.in)**
+Currently building **[GoneRogue](https://www.gonerogue.in)**
 
 </td>
 </tr>
@@ -47,17 +37,6 @@ Hey!
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-
-</div>
-
----
-
-## $ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=damugiwara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damugiwara&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
 </div>
 
@@ -116,7 +95,3 @@ An automated job application system that scrapes a LinkedIn job post, generates 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtripathi.work@gmail.com)
 
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
