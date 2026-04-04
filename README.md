@@ -40,7 +40,7 @@ Currently building **[GoneRogue](https://www.gonerogue.in)**
 ![Make](https://img.shields.io/badge/Make-6d00cc?style=for-the-badge&logo=make&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white)
+<img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="20"/> &nbsp;**Antigravity**
 
 
 </div>
