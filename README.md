@@ -37,6 +37,7 @@ Currently building **[GoneRogue](https://www.gonerogue.in)**
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6d00cc?style=for-the-badge&logo=make&logoColor=white)
 
 </div>
 
