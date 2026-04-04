@@ -11,7 +11,7 @@ Hey!
 
 I'm **Vansh**.
 
-An AI Automation Engineer building intelligent systems that run themselves.
+An AI Automation Architect building intelligent systems that run themselves.
 
 I specialize in transforming manual, repetitive processes into autonomous, self-improving pipelines using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
 
