@@ -29,7 +29,7 @@ An end-to-end autonomous procurement pipeline that eliminates spreadsheets, foll
 
 **Pipeline:** One trigger fires the entire RFQ lifecycle → suppliers get personalised invitations via Tally URLs → quotes collected and scanned for anomalies by Groq → non-responders auto-chased → buyer clicks Award → PO generated and logged to Airtable automatically.
 
-**Stack:** `n8n` · `Airtable` · `Groq` · `Gmail` · `Tally` · `PDF Generation`
+**Stack:** `n8n` · `Airtable` · `Groq` · `Gmail` · `Tally` · `Documint`
 
 ---
 
@@ -39,7 +39,7 @@ An end-to-end automated prospecting system that identifies high intent B2B leads
 
 **Pipeline:** Paste a viral LinkedIn post URL → Apify scrapes all commenters → ICP scoring buckets leads into Tier 1/2/3 → results batch inserted into Supabase → async cron polling handles Apify jobs without serverless timeouts.
 
-**Stack:** `Next.js 16` · `React 19` · `Supabase` · `Apify` · `TypeScript` · Vercel
+**Stack:** `Next.js 16` · `React 19` · `Supabase` · `Apify` · `TypeScript` · `Vercel`
 
 ---
 
