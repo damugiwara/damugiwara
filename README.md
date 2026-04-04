@@ -23,23 +23,42 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 
 ## $ Projects
 
+### ⚙️ Zero Touch Procurement
+
+An end-to-end autonomous procurement pipeline that eliminates spreadsheets, follow-up emails, and manual award processes simultaneously.
+
+**Pipeline:** One trigger fires the entire RFQ lifecycle → suppliers get personalised invitations via Tally URLs → quotes collected and scanned for anomalies by Groq → non-responders auto-chased → buyer clicks Award → PO generated and logged to Airtable automatically.
+
+**Stack:** `n8n` · `Airtable` · `Groq` · `Gmail` · `Tally` · `PDF Generation`
+
+---
+
 ### 🎯 Signal Based LinkedIn Lead Generation Tool
 
 An end-to-end automated prospecting system that identifies high intent B2B leads by targeting people already engaging with relevant LinkedIn content. No cold outreach needed.
 
 **Pipeline:** Paste a viral LinkedIn post URL → Apify scrapes all commenters → ICP scoring buckets leads into Tier 1/2/3 → results batch inserted into Supabase → async cron polling handles Apify jobs without serverless timeouts.
 
+**Stack:** `Next.js 16` · `React 19` · `Supabase` · `Apify` · `TypeScript` · Vercel
+
 ---
 
-### 🚀 AI Powered Crypto Analysis System
+### 🚀 RogueX — AI Powered Crypto Analysis System
 🌐 https://roguex.vercel.app
 
 An automated, agent driven platform that processes crypto market queries and delivers real time analysis and trading insights.
 
 ---
 
+### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
+🌐 https://github.com/damugiwara/Linkedin_Email_Drafter
+
+A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
+
+---
+
 ## $ Let's Connect
 
-🌐 Portfolio: https://www.vanshtripathi.tech 
-
+🌐 Portfolio: https://www.vanshtripathi.tech
 💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/
+📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms
