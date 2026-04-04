@@ -54,11 +54,15 @@ An autonomous multi-model crypto intelligence system that parses incoming market
 
 ---
 
-### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
+### 🤖 LinkedIn AI Email Drafter
 🌐 https://github.com/damugiwara/Linkedin_Email_Drafter
-
-A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
-
+ 
+An automated job application system that scrapes a LinkedIn job post, generates a personalized email using your resume and skills, and saves it as a Gmail draft with your resume attached.
+ 
+**Pipeline:** User submits LinkedIn URL and resume → n8n webhook triggers → Jina AI scrapes job post → Groq parses resume text → AI Agent (Groq + Gemini fallback) drafts targeted email → application logged to Airtable → Gmail draft created with resume attached.
+ 
+**Stack:** `n8n` · `Groq` · `Gemini` · `Jina AI` · `Airtable` · `Gmail OAuth2` · `PDF.js`
+ 
 ---
 
 ## $ Let's Connect
