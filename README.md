@@ -1,12 +1,41 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vansh%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+autonomous+systems+that+run+themselves.;LLMs+%C2%B7+Agentic+AI+%C2%B7+Workflow+Orchestration+%C2%B7+n8n)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ## $ Whoami
 
-I'm **Vansh**, an AI Automation Engineer focused on designing and deploying intelligent systems that automate workflows, integrate APIs, and power scalable AI-driven applications.
+<table>
+<tr>
+<td width="300">
+<img src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="280" />
+</td>
+<td>
 
-I specialize in transforming manual, repetitive processes into autonomous, self-improving systems using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
+Hey!
+
+🤖 I'm **Vansh**.
+
+⚡ An AI Automation Engineer building intelligent systems that run themselves.
+
+🔧 I specialize in transforming manual, repetitive processes into autonomous, self-improving pipelines using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
+
+🚀 Currently building at **[GoneRogue](https://www.gonerogue.in)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## $ Tech Stack
+
+<div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +47,19 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
+</div>
+
+---
+
+## $ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=damugiwara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damugiwara&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+
+</div>
 
 ---
 
@@ -50,23 +92,31 @@ An autonomous multi-model crypto intelligence system that parses incoming market
 
 **Pipeline:** Webhook receives query → intent and coin parsed → symbol normalized → live price and stats fetched via API → context restored → router branches by command type → analysis queue runs Gemini and Groq in parallel → formatted report or signal returned automatically.
 
-**Stack:** `n8n` · `Gemini` · `Groq` · `Webhook` · `Vercel`
+**Stack:** `n8n` · `Gemini` · `Groq` · `Webhook` · Vercel
 
 ---
 
 ### 🤖 LinkedIn AI Email Drafter
 🌐 https://github.com/damugiwara/Linkedin_Email_Drafter
- 
+
 An automated job application system that scrapes a LinkedIn job post, generates a personalized email using your resume and skills, and saves it as a Gmail draft with your resume attached.
- 
+
 **Pipeline:** User submits LinkedIn URL and resume → n8n webhook triggers → Jina AI scrapes job post → Groq parses resume text → AI Agent (Groq + Gemini fallback) drafts targeted email → application logged to Airtable → Gmail draft created with resume attached.
- 
+
 **Stack:** `n8n` · `Groq` · `Gemini` · `Jina AI` · `Airtable` · `Gmail OAuth2` · `PDF.js`
- 
+
 ---
 
 ## $ Let's Connect
 
-🌐 Portfolio: https://www.vanshtripathi.tech
-💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vanshtripathi.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshtri07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtripathi.work@gmail.com)
+
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
