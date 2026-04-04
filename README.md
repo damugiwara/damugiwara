@@ -39,8 +39,9 @@ Currently building **[GoneRogue](https://www.gonerogue.in)**
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6d00cc?style=for-the-badge&logo=make&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Google_Antigravity_Logo.svg/32px-Google_Antigravity_Logo.svg.png" height="28"/>](https://antigravity.google)
 
 </div>
 
