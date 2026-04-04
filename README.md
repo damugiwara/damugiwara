@@ -91,8 +91,7 @@ An automated job application system that scrapes a LinkedIn job post, generates 
 
 ## 📬 Let's Connect
 
-[![X](https://img.shields.io/badge/X-vanshtri-000?style=for-the-badge&logo=x)](https://x.com/vanshtri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanshtri07-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshtri07/)
-[![GoneRogue](https://img.shields.io/badge/Building-GoneRogue-6366f1?style=for-the-badge)](https://www.gonerogue.in)  
+<a href="https://www.linkedin.com/in/vanshtri07/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="24" height="24" alt="LinkedIn"></a>
+<a href="https://x.com/vanshtri"><img src="https://cdn.simpleicons.org/x/000000" width="24" height="24" alt="X"></a>
 
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms.
