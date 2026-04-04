@@ -40,5 +40,6 @@ An automated, agent driven platform that processes crypto market queries and del
 
 ## $ Let's Connect
 
-🌐 Portfolio: https://www.vanshtripathi.tech
+🌐 Portfolio: https://www.vanshtripathi.tech 
+
 💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/
