@@ -1,6 +1,6 @@
 ## $ Whoami
 
-I'm Vansh, an AI Automation Engineer focused on designing and deploying intelligent systems that automate workflows, integrate APIs, and power scalable AI-driven applications.
+I'm **Vansh**, an AI Automation Engineer focused on designing and deploying intelligent systems that automate workflows, integrate APIs, and power scalable AI-driven applications.
 
 I specialize in transforming manual, repetitive processes into autonomous, self-improving systems using LLMs, agentic architectures, workflow orchestration, and modern backend infrastructure.
 
@@ -23,24 +23,23 @@ I specialize in transforming manual, repetitive processes into autonomous, self-
 
 ## $ Projects
 
-### 🚀 RogueX — AI-Powered Crypto Analysis System
+### 🎯 Signal Based LinkedIn Lead Generation Tool
 
-🌐 https://roguex.vercel.app
+An end-to-end automated prospecting system that identifies high intent B2B leads by targeting people already engaging with relevant LinkedIn content. No cold outreach needed.
 
-An automated, agent-driven platform that processes crypto market queries and delivers real-time analysis and trading insights.
+**Pipeline:** Paste a viral LinkedIn post URL → Apify scrapes all commenters → ICP scoring buckets leads into Tier 1/2/3 → results batch inserted into Supabase → async cron polling handles Apify jobs without serverless timeouts.
 
 ---
 
-### 🤖 LinkedIn AI Email Drafter — Automated Job Outreach System
+### 🚀 AI Powered Crypto Analysis System
+🌐 https://roguex.vercel.app
 
-🌐 https://github.com/damugiwara/Linkedin_Email_Drafter
-
-A workflow automation system that converts LinkedIn job posts into personalized application emails using LLMs and orchestration pipelines.
+An automated, agent driven platform that processes crypto market queries and delivers real time analysis and trading insights.
 
 ---
 
 ## $ Let's Connect
 
-🌐 Portfolio: https://www.vanshtripathi.tech  
-💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/  
+🌐 Portfolio: https://www.vanshtripathi.tech
+💼 LinkedIn: https://www.linkedin.com/in/vanshtri07/
 📫 Open to collaborations on AI automation, agent systems, and intelligent workflow platforms
