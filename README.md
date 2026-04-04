@@ -29,7 +29,7 @@ An end-to-end autonomous procurement pipeline that eliminates spreadsheets, foll
 
 **Pipeline:** One trigger fires the entire RFQ lifecycle → suppliers get personalised invitations via Tally URLs → quotes collected and scanned for anomalies by Groq → non-responders auto-chased → buyer clicks Award → PO generated and logged to Airtable automatically.
 
-**Stack:** `n8n` · `Airtable` · `Groq` · `Gmail` · `Tally` · `Documint`
+**Stack:** `n8n` · `Airtable` · `Groq` · `Gmail` · `Tally` · `PDF Generation`
 
 ---
 
@@ -39,14 +39,18 @@ An end-to-end automated prospecting system that identifies high intent B2B leads
 
 **Pipeline:** Paste a viral LinkedIn post URL → Apify scrapes all commenters → ICP scoring buckets leads into Tier 1/2/3 → results batch inserted into Supabase → async cron polling handles Apify jobs without serverless timeouts.
 
-**Stack:** `Next.js 16` · `React 19` · `Supabase` · `Apify` · `TypeScript` · `Vercel`
+**Stack:** `Next.js 16` · `React 19` · `Supabase` · `Apify` · `TypeScript` · Vercel
 
 ---
 
 ### 🚀 RogueX — AI Powered Crypto Analysis System
 🌐 https://roguex.vercel.app
 
-An automated, agent driven platform that processes crypto market queries and delivers real time analysis and trading insights.
+An autonomous multi-model crypto intelligence system that parses incoming market queries, routes them by intent, and returns real-time price data, technical analysis, or trading signals without manual intervention.
+
+**Pipeline:** Webhook receives query → intent and coin parsed → symbol normalized → live price and stats fetched via API → context restored → router branches by command type → analysis queue runs Gemini and Groq in parallel → formatted report or signal returned automatically.
+
+**Stack:** `n8n` · `Gemini` · `Groq` · `Webhook` · `Vercel`
 
 ---
 
