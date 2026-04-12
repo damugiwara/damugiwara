@@ -60,7 +60,7 @@ An end-to-end autonomous procurement system that eliminates spreadsheets, follow
 ---
 
 ### 🎯 Signal Based LinkedIn Lead Generation Tool
-[🔗 Deep Dive](https://www.linkedin.com/posts/https://www.linkedin.com/posts/vanshtri07_linkedin-signal-prospecting-engine-ugcPost-7449045404479922176-kJXp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGSWfR8BlV27PpdcU3RpM3b8UVzqRfYAIoU)
+[🔗 Deep Dive](https://www.linkedin.com/posts/vanshtri07_linkedin-signal-prospecting-engine-ugcPost-7449045404479922176-kJXp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGSWfR8BlV27PpdcU3RpM3b8UVzqRfYAIoU)
 
 
 An end-to-end automated prospecting system that identifies high intent B2B leads by targeting people already engaging with relevant LinkedIn content. No cold outreach needed.
